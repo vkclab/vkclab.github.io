@@ -14,7 +14,7 @@ $.getJSON('http://sunnyyy.github.io/publications.json', function(jsonData) {
         	// console.log(y);
 
         	// add year to webpage
-        	var year = "<p class='year'>"+y+"</p>";
+        	var year = "<p class='year'>&diams; "+y+" &diams;</p>";
         	div.append(year);
 
         	// get each paper + links i from year y
