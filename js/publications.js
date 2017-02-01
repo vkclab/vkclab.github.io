@@ -1,5 +1,7 @@
 $.getJSON('http://sunnyyy.github.io/publications.json', function(jsonData) {
-    console.log(jsonData)
+    
+    // bug-check: log JSON object in console
+    // console.log(jsonData)
 
     // section of webpage this script edits
     var div = $( ".content" );
