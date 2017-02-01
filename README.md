@@ -29,7 +29,7 @@
 
 - contains a JSON object of all published papers; exported from a Google Spreadsheet titled "VKC Lab Publications (Web)"
 
-=====
+----------
 
 ## Instructions for updating list of publications
 
@@ -42,8 +42,8 @@ _Each time you update the list of publications, you must also extract a JSON fil
   * If the publication you want to add is from a year that does not already have a sheet (e.g. when adding the first publication from 2017)...
 
     1. Create a sheet with that year and drag it to the front of the queue.
-    2. Copy the first line from another sheet (the line with "Author, Title, ..."). __It is crucial tha tthe first line does not vary from sheet to sheet.__
-    3. (Optional: Drag the thick line right below "A, B, C, ..." down by one cell, such that it's below the first line.)
+    2. Copy the first line from another sheet (the line with "Author, Title, ..."). __It is crucial that the first line does not vary from sheet to sheet.__
+    3. (Optional: Drag the thick line right below "A, B, C, ..." down by one cell, such that it's below the first line. The first line will now be fixed at the top as you scroll down the spreadsheet.)
     4. Enter the relevant information from the publication in the second line: Author, Title, Journal, Pages (if applicable), DOI, Google Scholar, and Epistemio.
 
   * If the year already exists in the sheets, insert a blank row between the first and second row, and add the relevant information from the publication: Author, Title, Journal, Pages (if applicable), DOI, Google Scholar, and Epistemio.
@@ -54,6 +54,6 @@ _Each time you update the list of publications, you must also extract a JSON fil
 
 4. A window of the exported JSON should pop up. (These are the cells of each sheet converted into a JSON object.) Copy and paste this newly-generated JSON into the __publications.json__ file, _making sure to erase over the previous content_. (Otherwise you'd have duplicates.)
 
-5. Add, commit, and then push the changes from __publications.json__ to GitHub. The JavaScript file _**publications.js**_ should automatically properly format the JSON objects (which contains papers from each year) into a user-friendly listings on the Publications page.
+5. Add, commit, and then push the changes from __publications.json__ to GitHub. The JavaScript file _**publications.js**_ should automatically properly format the JSON objects (which contains papers from each year) into user-friendly listings on the Publications page.
 
-=====
+----------
