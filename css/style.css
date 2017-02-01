@@ -1,0 +1,78 @@
+body {
+	font-family: 'Merriweather Sans',sans-serif;
+	font-weight: 400;
+}
+nav, .navbar {
+	font-weight: 800;
+}
+.container {
+	margin: 0px 0px;
+	padding: 5% 5%;
+	width: 100%;
+}
+.bg {
+	background: #eee;
+}
+.content {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+#floating_logo {
+	margin-top: 50px;
+	min-height: 20vh;
+	background: #333;
+	opacity: 0.5;
+}
+h1 {
+	font-weight: 800;
+	text-align: center;
+	margin-bottom: 2em;
+}
+.bold {
+	font-weight: 800;
+}
+
+div.whitebox {
+	background: transparent;
+	padding: 10px 15px;
+	margin: 2px 5px;
+	display: inline-block;
+	border: 1px solid #fff;
+}
+a.whitelink:link, a.whitelink:visited, a.whitelink:hover, a.whitelink:active {
+	color: #fff;
+}
+a.white-underline {
+	position: relative;
+	text-decoration: none;
+}
+a.white-underline:before {
+	content: "";
+	position: absolute;
+	width: 100%;
+	height: 1px;
+	bottom: 0;
+	left: 0;
+	background-color: #fff;
+	visibility: hidden;
+	-webkit-transform: scaleX(0);
+	transform: scaleX(0);
+	-webkit-transition: all 0.3s ease-in-out 0s;
+	transition: all 0.3s ease-in-out 0s;
+}
+a.white-underline:hover:before {
+	visibility: visible;
+	-webkit-transform: scaleX(1);
+	transform: scaleX(1);
+}
+#floating {
+	width: 100%;
+	z-index: 5;
+}
+
+footer {
+	text-align: center;
+	background-color: #eee;
+	padding: 10px 10px;
+	margin: 0px 0px;
+}
