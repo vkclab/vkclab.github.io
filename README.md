@@ -54,6 +54,6 @@ _Each time you update the list of publications, you must also extract a JSON fil
 
 4. A window of the exported JSON should pop up. (These are the cells of each sheet converted into a JSON object.) Copy and paste this newly-generated JSON into the __publications.json__ file, _making sure to erase over the previous content_. (Otherwise you'd have duplicates.)
 
-5. Add, commit, and then push the changes from publications.json to GitHub. The JavaScript file _publications.js_ should automatically properly format the JSON objects (which contains papers from each year) into a user-friendly listings on the Publications page.
+5. Add, commit, and then push the changes from __publications.json__ to GitHub. The JavaScript file _**publications.js**_ should automatically properly format the JSON objects (which contains papers from each year) into a user-friendly listings on the Publications page.
 
 =====
