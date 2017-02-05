@@ -1,4 +1,4 @@
-$.getJSON('http://sunnyyy.github.io/publications.json', function(jsonData) {
+$.getJSON('https://vkclab.github.io/json/publications.json', function(jsonData) {
     
     // bug-check: log JSON object in console
     // console.log(jsonData)
