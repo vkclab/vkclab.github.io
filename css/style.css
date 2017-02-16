@@ -19,12 +19,16 @@ nav, .navbar {
 }
 #floating_logo {
 	margin-top: 50px;
+	padding: 2%;
 	min-height: 20vh;
 	background: #333;
-	opacity: 0.5;
+	opacity: 0.8;
+}
+.header_img {
+	border: 2px solid white;
 }
 h1 {
-	color: #09c;
+	color: #6c9;
 	font-weight: 800;
 	text-align: center;
 	margin-bottom: 2em;
@@ -38,7 +42,9 @@ p {
 .bold {
 	font-weight: 800;
 }
-
+img {
+	width: 100%;
+}
 div.whitebox {
 	background: transparent;
 	padding: 10px 15px;
