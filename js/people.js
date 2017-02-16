@@ -19,11 +19,11 @@ $.getJSON('https://vkclab.github.io/json/people.json', function(jsonData) {
         person += "<div class='col-sm-8'>";
 
         person += "<p class='person_title'>" + jsonData[i]['nameyear'];
-        if ('major' in jsonData[i]) {
+        if ('majors' in jsonData[i]) {
             person += "<span class='person_major'>" + jsonData[i]['major'] + "</span>";
         }
         person += "</p>";
-        person += "<p class='person_blurb'>" + jsonData[i]['nameyear'] + "</p>";
+        person += "<p class='person_blurb'>" + jsonData[i]['blurb'] + "</p>";
 
         person += "</div>" // close blurb column
         person += "</div>" // close row div
