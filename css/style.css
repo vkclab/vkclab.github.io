@@ -20,12 +20,13 @@ nav, .navbar {
 #floating_logo {
 	margin-top: 50px;
 	padding: 2%;
-	min-height: 20vh;
+	text-align: center;
+	vertical-align: middle;
 	background: #333;
 	opacity: 0.8;
 }
 .header_img {
-	border: 2px solid white;
+	border: 1px solid white;
 }
 h1 {
 	color: #6c9;
@@ -42,8 +43,27 @@ p {
 .bold {
 	font-weight: 800;
 }
+.whitetext {
+	color: white;
+	font-size: 1em;
+}
 img {
 	width: 100%;
+}
+.circle {
+	display: inline-block;
+	border: 2px solid #fff;
+	width: 80px;
+	height: 80px;
+	margin: 5px 5px;
+	padding: 15px 15px 5px 15px;
+}
+.circle:hover {
+	transition:all 0.3s ease;
+	border-radius:50%;
+}
+.circle > h1 {
+	font-size: 40px;
 }
 div.whitebox {
 	background: transparent;
@@ -78,11 +98,6 @@ a.white-underline:hover:before {
 	-webkit-transform: scaleX(1);
 	transform: scaleX(1);
 }
-#floating {
-	width: 100%;
-	z-index: 5;
-}
-
 footer {
 	text-align: center;
 	background-color: #eee;
