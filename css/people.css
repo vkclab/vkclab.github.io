@@ -4,3 +4,13 @@
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
+.row {
+	margin: 15px 0px;
+}
+.person_title {
+	font-size: 1.5em;
+}
+.person_major {
+	font-size: 1.2em;
+	color: #696;
+}
