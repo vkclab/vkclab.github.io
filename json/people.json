@@ -1,0 +1,43 @@
+[
+    {
+        "nameyear": "PI: <a href='http://www.wellesley.edu/biology/faculty/klepac-ceraj'>Vanja Klepac-Ceraj</a>",
+        "blurb": "Research interests: microbiology, ecology, microbial diversity and evolution, community stability and resilience",
+        "photo": "people_vanja.png"
+    },
+    {
+        "nameyear": "Manjot Kaur Nagyal '17",
+        "majors": "Biochemistry Major",
+        "blurb": "I joined Prof. Klepac-Ceraj’s lab after taking her introductory course on cellular and molecular biology. My research project is focused on understanding the role of estradiol of the female mouse gut microbiota. Currently, I am characterizing the host-independent effects of estradiol on the gut microbes. At Wellesley, I ventured into computer science, start-up business (Munch), Haitian and Ghanaian drumming, and dramatic acting. For my next big adventure, I plan to pursue a PhD in computational and systems biology and eventually enter the biotechnology industry",
+        "photo": "people_manjot.png"
+    },
+    {
+        "nameyear": "Sophie Rowland '17",
+        "majors": "Biology and Classical Civilization Major",
+        "blurb": "I started working in Vanja’s lab in the fall of 2015. I am working on a collaborative project with Tanja Bosak’s lab at MIT. We are interested in the green sulfur bacteria <i>Chlorobium phaeobacteroides</i> and what it uses as an electron donor in anoxygenic photosynthesis. Outside of lab, I sing in choir and play the bells on Wellesley’s campus. After Wellesley, I intend to take a gap year and then pursue a PhD in biology.",
+        "photo": "people_sophie.png"
+    },
+    {
+        "nameyear": "Alexa Rodriguez '17",
+        "majors": "Biology Major",
+        "blurb": "I worked on two projects in the lab: characterization of the gut microbiome of the milkweed bug, <i>Oncopeltus fasciatus</i> and the lipopolysaccharide levels in female mice gut samples. Now, as a Lab Manager, I’m making sure that everyone has smooth sailing with their research! Outside of lab, I am president of the Hippocratic Society. Lastly, I am also an author on the I’m First blog, a blog that is meant to support, and share experiences with other first-gen students. After graduation, I plan on pursuing a career as a Primary Care physician.",
+        "photo": "people_alexa.jpg"
+    },
+    {
+        "nameyear": "Lisa Luka '18",
+        "majors": "Biochemistry Major",
+        "blurb": "I study how the populations of  gut microbes change with respect to change of components in their environment, which can either be in or outside of the host organism. Together with Manjot, I have investigated the host independent changes of  the female mouse gut microbiota with respect to different concentrations of estradiol. I am fascinated about gut microbes since understanding how they work can open window into understanding  what drives different systems and processes in macroorganisms. Outside of lab, I enjoy singing and I am learning to play the classical guitar. After graduation, I intend to go to Medical School.",
+        "photo": "people_lisa.png"
+    },
+    {
+        "nameyear": "Alyssa Fishbein '19",
+        "majors": "Biology Major",
+        "blurb": "I am currently working on understanding the role of <i>Chlorobium phaeobacteroides</i> in anoxygenic photosynthesis, and more specifically its relationship with manganese. Outside of lab, I am on the executive board of Hillel and a member of the Student Organization Funding Committee (SOFC). Outside of school, I love to cook and travel. My favorite microbe is yeast and my favorite science joke is “Why can’t you trust atoms? Because they make up everything.",
+        "photo": "people_alyssa.jpg"
+    },
+    {
+        "nameyear": "Anna Farrell-Sherman '19",
+        "majors": "Computer Science and Biology Major",
+        "blurb": "I joined the VKC lab to work on how computation can help us understand the large data sets involved in microbiome research. With millions of sequencing reads from thousands of different samples, our lab is awash in data that we need computer science to help us understand. I work on a variety of different projects, but I currently focus on understanding the changes that occur in the gut microbiota of mice on different diets.  In addition to biology and computer science, I spend most of my time rock climbing as the president of Wellesley’s Climbing Club, and cooking with my friends in the dorm kitchen.",
+        "photo": "people_anna.png"
+    }
+]
