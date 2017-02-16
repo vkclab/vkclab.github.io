@@ -4,7 +4,8 @@
             "authors": "O'Reilly, S. S., Mariotti, G., Winter, A. R., Newman, S. A., Matys, E. D., McDermott, F., et al. (2016).",
             "title": "Molecular biosignatures reveal common benthic microbial sources of organic matter in ooids and grapestones from Pigeon Cay, The Bahamas.",
             "journal": "Geobiology.",
-            "doi": "http://dx.doi.org/10.1111/gbi.12196",
+            "doi": "doi:10.1111/gbi.12196",
+            "doilink": "http://dx.doi.org/10.1111/gbi.12196",
             "googscholar": "http://scholar.google.com/scholar?q=O%27Reilly+Molecular+biosignatures+reveal+common+benthic+microbial+sources+of+organic+matter+in+ooids+and+grapestones+from+Pigeon+Cay%2C+The+Bahamas",
             "epistemio": "https://www.epistemio.com/p/kN25f38F"
         }
@@ -15,7 +16,8 @@
             "title": "Subgingival microbial profiles of Sudanese patients with aggressive periodontitis.",
             "journal": "Journal of Periodontal Research, 50(5), ",
             "pages": "674–682.",
-            "doi": "http://dx.doi.org/10.1111/jre.12250",
+            "doi": "doi:10.1111/jre.12250",
+            "doilink": "http://dx.doi.org/10.1111/jre.12250",
             "googscholar": "http://scholar.google.com/scholar?q=Elabdeen+Subgingival+microbial+profiles+of+Sudanese+patients+with+aggressive+periodontitis",
             "epistemio": "https://www.epistemio.com/p/CX3QQ4Sm"
         },
@@ -23,7 +25,8 @@
             "authors": "Belstrøm, D., Fiehn, N. - E., Nielsen, C. H., Klepac-Ceraj, V., Paster, B. J., Twetman, S., & Holmstrup, P. (2015).",
             "title": "Differentiation of salivary bacterial profiles of subjects with periodontitis and dental caries.",
             "journal": "Journal of Oral Microbiology, 7.",
-            "doi": "http://dx.doi.org/10.3402/jom.v7.27429",
+            "doi": "doi:10.1111/jre.12250",
+            "doilink": "http://dx.doi.org/10.3402/jom.v7.27429",
             "googscholar": "http://scholar.google.com/scholar?q=Belstr%C3%B8m+Differentiation+of+salivary+bacterial+profiles+of+subjects+with+periodontitis+and+dental+caries",
             "epistemio": "https://www.epistemio.com/p/qK2UJ2ua"
         },
@@ -32,7 +35,8 @@
             "title": "Beta-diversity metrics of the upper digestive tract microbiome are associated with body mass index: UGI Microbiome Beta-Diversity Associated with BMI. ",
             "journal": "Obesity, 23(4), ",
             "pages": "862–869.",
-            "doi": "http://dx.doi.org/10.1002/oby.21020",
+            "doi": "doi:10.1111/jre.12250",
+            "doilink": "http://dx.doi.org/10.1002/oby.21020",
             "googscholar": "http://scholar.google.com/scholar?q=Lin+Beta-diversity+metrics+of+the+upper+digestive+tract+microbiome+are+associated+with+body+mass+index%3A+UGI+Microbiome+Beta-Diversity+Associated+with+BMI",
             "epistemio": "https://www.epistemio.com/p/MW2nf5xZ"
         },
@@ -41,7 +45,8 @@
             "title": "Association between tobacco use and the upper gastrointestinal microbiome among Chinese men.",
             "journal": "Cancer Causes & Control, 26(4),",
             "pages": "581–588.",
-            "doi": "http://dx.doi.org/10.1007/s10552-015-0535-2",
+            "doi": "doi:10.1007/s10552-015-0535-2",
+            "doilink": "http://dx.doi.org/10.1007/s10552-015-0535-2",
             "googscholar": "http://scholar.google.com/scholar?q=Vogtmann+Association+between+tobacco+use+and+the+upper+gastrointestinal+microbiome+among+Chinese+men",
             "epistemio": "https://www.epistemio.com/p/sx0rL1UQ"
         },
@@ -50,9 +55,204 @@
             "title": "Microbiology and Ecology Are Vitally Important to Premedical Curricula.",
             "journal": "Evolution, Medicine, and Public Health,",
             "pages": "eov014.",
-            "doi": "http://dx.doi.org/10.1093/emph/eov014",
+            "doi": "doi:10.1093/emph/eov014",
+            "doilink": "http://dx.doi.org/10.1093/emph/eov014",
             "googscholar": "http://scholar.google.com/scholar?q=Smith+Microbiology+and+Ecology+Are+Vitally+Important+to+Premedical+Curricula",
             "epistemio": "https://www.epistemio.com/p/Vr8Lt3Wr"
+        },
+        {
+            "title": " "
         }
-    ]
+    ],
+    "2014": [
+        {
+            "authors": "Yu, G., Dye, B. A., Gail, M. H., Shi, J., Klepac-Ceraj, V., Paster, B. J., et al. (2014).",
+            "title": "The association between the upper digestive tract microbiota by HOMIM and oral health in a population-based study in Linxian, China.",
+            "journal": "BMC Public Health, 14(1), 1110.",
+            "doi": "doi:10.1186/1471-2458-14-1110",
+            "doilink": "http://dx.doi.org/10.1186/1471-2458-14-1110",
+            "googscholar": "http://scholar.google.com/scholar?q=Yu+The+association+between+the+upper+digestive+tract+microbiota+by+HOMIM+and+oral+health+in+a+population-based+study+in+Linxian%2C+China",
+            "epistemio": "https://www.epistemio.com/p/Rf7iv5Za"
+        },
+        {
+            "authors": "Meredith, L. K., Rao, D., Bosak, T., Klepac-Ceraj, V., Tada, K. R., Hansel, C. M., et al. (2014).",
+            "title": "Consumption of atmospheric hydrogen during the life cycle of soil-dwelling actinobacteria: Uptake of Hduring the life cycle of soil actinobacteria.",
+            "journal": "Environmental Microbiology Reports, 6(3),",
+            "pages": "226–238.",
+            "doi": "doi:10.1111/1758-2229.12116",
+            "doilink": "http://dx.doi.org/10.1111/1758-2229.12116",
+            "googscholar": "http://scholar.google.com/scholar?q=Meredith+Consumption+of+atmospheric+hydrogen+during+the+life+cycle+of+soil-dwelling+actinobacteria%3A+Uptake+of+Hduring+the+life+cycle+of+soil+actinobacteria",
+            "epistemio": "https://www.epistemio.com/p/7z5Mh9vM"
+        },
+        {
+            "authors": "Yu, G., Gail, M. H., Shi, J., Klepac-Ceraj, V., Paster, B. J., Dye, B. A., et al. (2014).",
+            "title": "Association between Upper Digestive Tract Microbiota and Cancer-Predisposing States in the Esophagus and Stomach.",
+            "journal": "Cancer Epidemiology Biomarkers & Prevention, 23(5),",
+            "pages": "735–741.",
+            "doi": "doi:10.1158/1055-9965.EPI-13-0855",
+            "doilink": "http://dx.doi.org/10.1158/1055-9965.EPI-13-0855",
+            "googscholar": "http://scholar.google.com/scholar?q=Yu+Association+between+Upper+Digestive+Tract+Microbiota+and+Cancer-Predisposing+States+in+the+Esophagus+and+Stomach",
+            "epistemio": "https://www.epistemio.com/p/jW8iV8Pd"
+        },
+        {
+            "authors": "Belstrøm, D., Holmstrup, P., Nielsen, C. H., Kirkby, N., Twetman, S., Heitmann, B. L., et al. (2014).",
+            "title": "Bacterial profiles of saliva in relation to diet, lifestyle factors, and socioeconomic status.",
+            "journal": "Journal of Oral Microbiology, 6.",
+            "doi": "doi:10.3402/jom.v6.23609",
+            "doilink": "http://dx.doi.org/10.3402/jom.v6.23609",
+            "googscholar": "http://scholar.google.com/scholar?q=Belstr%C3%B8m+Bacterial+profiles+of+saliva+in+relation+to+diet%2C+lifestyle+factors%2C+and+socioeconomic+status",
+            "epistemio": "https://www.epistemio.com/p/0R0Gq25i"
+        },
+        {
+            "authors": "Belstrøm, D., Fiehn, N. - E., Nielsen, C. H., Holmstrup, P., Kirkby, N., Klepac-Ceraj, V., et al. (2014).",
+            "title": "Altered Bacterial Profiles in Saliva from Adults with Caries Lesions: A Case-Cohort Study.",
+            "journal": "Caries Research, 48(5),",
+            "pages": "368–375.",
+            "doi": "doi:10.1159/000357502",
+            "doilink": "http://dx.doi.org/10.1159/000357502",
+            "googscholar": "http://scholar.google.com/scholar?q=Belstr%C3%B8m+Altered+Bacterial+Profiles+in+Saliva+from+Adults+with+Caries+Lesions%3A+A+Case-Cohort+Study",
+            "epistemio": "https://www.epistemio.com/p/Hz5fy7ca"
+        },
+        {
+            "authors": "Belstrøm, D., Fiehn, N. - E., Nielsen, C. H., Kirkby, N., Twetman, S., Klepac-Ceraj, V., et al. (2014).",
+            "title": "Differences in bacterial saliva profile between periodontitis patients and a control cohort.",
+            "journal": "Journal of Clinical Periodontology, 41(2),",
+            "pages": "104–112.",
+            "doi": "doi:10.1111/jcpe.12190",
+            "doilink": "http://dx.doi.org/10.1111/jcpe.12190",
+            "googscholar": "http://scholar.google.com/scholar?q=Belstr%C3%B8m+Differences+in+bacterial+saliva+profile+between+periodontitis+patients+and+a+control+cohort",
+            "epistemio": "https://www.epistemio.com/p/nS51h0UM"
+        },
+        {
+            "authors": "Nascimento, M. M., Browngardt, C., Xiaohui, X., Klepac-Ceraj, V., Paster, B. J., & Burne, R. A. (2014).",
+            "title": "The effect of arginine on oral biofilm communities.",
+            "journal": "Molecular Oral Microbiology, 29(1),",
+            "pages": "45–54.",
+            "doi": "doi:10.1111/omi.12044",
+            "doilink": "http://dx.doi.org/10.1111/omi.12044",
+            "googscholar": "http://scholar.google.com/scholar?q=Nascimento+The+effect+of+arginine+on+oral+biofilm+communities",
+            "epistemio": "https://www.epistemio.com/p/gR2fu0yo"
+        },
+        {
+            "authors": "Song, X., Yaskell, T., Klepac-Ceraj, V., Lynch, M. C., & Soukos, N. S. (2014).",
+            "title": "Antimicrobial Action of Minocycline Microspheres Versus 810-nm Diode Laser on Human Dental Plaque Microcosm Biofilms.",
+            "journal": "Journal of Periodontology, 85(2),",
+            "pages": "335–342.",
+            "doi": "doi:10.1902/jop.2013.130007",
+            "doilink": "http://dx.doi.org/10.1902/jop.2013.130007",
+            "googscholar": "http://scholar.google.com/scholar?q=Song+Antimicrobial+Action+of+Minocycline+Microspheres+Versus+810-nm+Diode+Laser+on+Human+Dental+Plaque+Microcosm+Biofilms",
+            "epistemio": "https://www.epistemio.com/p/bq1nm2wV"
+        }
+    ],
+    "2013": [
+        {
+            "authors": "Nascimento, M. M., Browngardt, C., Xiaohui, X., Klepac-Ceraj, V., Paster, B. J., & Burne, R. A. (2013).",
+            "title": "The effect of arginine on oral biofilm communities.",
+            "journal": "Molecular Oral Microbiology,",
+            "pages": "n/a–n/a.",
+            "doi": "doi:10.1111/mom.12044",
+            "doilink": "http://dx.doi.org/10.1111/mom.12044",
+            "googscholar": "http://scholar.google.com/scholar?q=Nascimento+The+effect+of+arginine+on+oral+biofilm+communities",
+            "epistemio": "https://www.epistemio.com/p/677mp0Za"
+        },
+        {
+            "authors": "Gonçalves, P. F., Klepac-Ceraj, V., Huang, H., Paster, B. J., Aukhil, I., Wallet, S. M., & Shaddox, L. M. (2013).",
+            "title": "Correlation of Aggregatibacter actinomycetemcomitans Detection with Clinical/Immunoinflammatory Profile of Localized Aggressive Periodontitis Using a 16S rRNA Microarray Method: A Cross-Sectional Study.",
+            "journal": "(P.  j Planet, Eds.) PLoS ONE, 8(12),",
+            "pages": "e85066.",
+            "doi": "doi:10.1371/journal.pone.0085066",
+            "doilink": "http://dx.doi.org/10.1371/journal.pone.0085066",
+            "googscholar": "http://scholar.google.com/scholar?q=Gon%C3%A7alves+Correlation+of+Aggregatibacter+actinomycetemcomitans+Detection+with+Clinical%2FImmunoinflammatory+Profile+of+Localized+Aggressive+Periodontitis+Using+a+16S+rRNA+Microarray+Method%3A+A+Cross-Sectional+Study",
+            "epistemio": "https://www.epistemio.com/p/bZ6Wr8in"
+        }
+    ],
+    "2012": [
+        {
+            "authors": "Torlakovic, L., Klepac-Ceraj, V., Øgaard, B., Cotton, S. L., Paster, B. J., & Olsen, I. (2012).",
+            "title": "Microbial community succession on developing lesions on human enamel.",
+            "journal": "Journal of Oral Microbiology, 4",
+            "doi": "doi:10.3402/jom.v4i0.16125",
+            "doilink": "http://dx.doi.org/10.3402/jom.v4i0.16125",
+            "googscholar": "http://scholar.google.com/scholar?q=Torlakovic+Microbial+community+succession+on+developing+lesions+on+human+enamel",
+            "epistemio": "https://www.epistemio.com/p/nj55J9YG"
+        },
+        {
+            "authors": "Bosak, T., Liang, B., Wu, T. - D., Templer, S. P., Evans, A., Vali, H., et al. (2012).",
+            "title": "Cyanobacterial diversity and activity in modern conical microbialites.",
+            "journal": "Geobiology, 10(5),",
+            "pages": "384–401.",
+            "doi": "doi:10.1111/j.1472-4669.2012.00334.x",
+            "doilink": "http://dx.doi.org/10.1111/j.1472-4669.2012.00334.x",
+            "googscholar": "http://scholar.google.com/scholar?q=Bosak+Cyanobacterial+diversity+and+activity+in+modern+conical+microbialites",
+            "epistemio": "https://www.epistemio.com/p/Rv0CP9KK"
+        },
+        {
+            "authors": "Klepac-Ceraj, V., Hayes, C. A., Gilhooly, W. P., Lyons, T. W., Kolter, R., & Pearson, A. (2012).",
+            "title": "Microbial diversity under extreme euxinia: Mahoney Lake, Canada: Microbial diversity of a stratified saline lake.",
+            "journal": "Geobiology, 10(3),",
+            "pages": "223–235.",
+            "doi": "doi:10.1111/j.1472-4669.2012.00317.x",
+            "doilink": "http://dx.doi.org/10.1111/j.1472-4669.2012.00317.x",
+            "googscholar": "http://scholar.google.com/scholar?q=KLEPAC-CERAJ+Microbial+diversity+under+extreme+euxinia%3A+Mahoney+Lake%2C+Canada%3A+Microbial+diversity+of+a+stratified+saline+lake",
+            "epistemio": "https://www.epistemio.com/p/M06mr9Py"
+        },
+        {
+            "authors": "Sim, M. S., Liang, B., Petroff, A. P., Evans, A., Klepac-Ceraj, V., Flannery, D. T., et al. (2012).",
+            "title": "Oxygen-Dependent Morphogenesis of Modern Clumped Photosynthetic Mats and Implications for the Archean Stromatolite Record.",
+            "journal": "Geosciences, 2(4),",
+            "pages": "235–259.",
+            "doi": "doi:10.3390/geosciences2040235",
+            "doilink": "http://dx.doi.org/10.3390/geosciences2040235",
+            "googscholar": "http://scholar.google.com/scholar?q=Sim+Oxygen-Dependent+Morphogenesis+of+Modern+Clumped+Photosynthetic+Mats+and+Implications+for+the+Archean+Stromatolite+Record",
+            "epistemio": "https://www.epistemio.com/p/iL4Sr47a"
+        },
+        {
+            "authors": "Shaddox, L. M., Huang, H., Lin, T., Hou, W., Harrison, P. L., Aukhil, I., et al. (2012).",
+            "title": "Microbiological Characterization in Children with Aggressive Periodontitis.",
+            "journal": "Journal of Dental Research, 91(10),",
+            "pages": "927–933.",
+            "doi": "doi:10.1177/0022034512456039",
+            "doilink": "http://dx.doi.org/10.1177/0022034512456039",
+            "googscholar": "http://scholar.google.com/scholar?q=Shaddox+Microbiological+Characterization+in+Children+with+Aggressive+Periodontitis",
+            "epistemio": "https://www.epistemio.com/p/wy0hW42o"
+        },
+        {
+            "authors": "Hunter, R. C., Klepac-Ceraj, V., Lorenzi, M. M., Grotzinger, H., Martin, T. R., & Newman, D. K. (2012).",
+            "title": "Phenazine Content in the Cystic Fibrosis Respiratory Tract Negatively Correlates with Lung Function and Microbial Complexity.",
+            "journal": "American Journal of Respiratory Cell and Molecular Biology, 47(6),",
+            "pages": "738–745.",
+            "doi": "doi:10.1165/rcmb.2012-0088OC",
+            "doilink": "http://dx.doi.org/10.1165/rcmb.2012-0088OC",
+            "googscholar": "http://scholar.google.com/scholar?q=Hunter+Phenazine+Content+in+the+Cystic+Fibrosis+Respiratory+Tract+Negatively+Correlates+with+Lung+Function+and+Microbial+Complexity",
+            "epistemio": "https://www.epistemio.com/p/LA6j05aT"
+        },
+        {
+            "authors": "Bohorquez, L. C., Delgado-Serrano, L., López, G., Osorio-Forero, C., Klepac-Ceraj, V., Kolter, R., et al. (2012).",
+            "title": "Erratum to: In-depth Characterization via Complementing Culture-Independent Approaches of the Microbial Community in an Acidic Hot Spring of the Colombian Andes.",
+            "journal": "Microbial Ecology, 63(1),",
+            "pages": "238–238.",
+            "doi": "doi:10.1007/s00248-011-9977-6",
+            "doilink": "http://dx.doi.org/10.1007/s00248-011-9977-6",
+            "googscholar": "http://scholar.google.com/scholar?q=Bohorquez+Erratum+to%3A+In-depth+Characterization+via+Complementing+Culture-Independent+Approaches+of+the+Microbial+Community+in+an+Acidic+Hot+Spring+of+the+Colombian+Andes",
+            "epistemio": "https://www.epistemio.com/p/MU2679E7"
+        },
+        {
+            "authors": "Bohorquez, L. C., Delgado-Serrano, L., López, G., Osorio-Forero, C., Klepac-Ceraj, V., Kolter, R., et al. (2012).",
+            "title": "In-depth Characterization via Complementing Culture-Independent Approaches of the Microbial Community in an Acidic Hot Spring of the Colombian Andes.",
+            "journal": "Microbial Ecology, 63(1),",
+            "pages": "103–115.",
+            "doi": "doi:10.1007/s00248-011-9943-3",
+            "doilink": "http://dx.doi.org/10.1007/s00248-011-9943-3",
+            "googscholar": "http://scholar.google.com/scholar?q=Bohorquez+In-depth+Characterization+via+Complementing+Culture-Independent+Approaches+of+the+Microbial+Community+in+an+Acidic+Hot+Spring+of+the+Colombian+Andes",
+            "epistemio": "https://www.epistemio.com/p/Wk2VY8c9"
+        }
+    ],
+    "2011": [],
+    "2010": [],
+    "2009": [],
+    "2008": [],
+    "2007": [],
+    "2006": [],
+    "2005": [],
+    "2004": []
 }

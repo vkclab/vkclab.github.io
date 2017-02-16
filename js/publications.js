@@ -23,7 +23,7 @@ $.getJSON('https://vkclab.github.io/json/publications.json', function(jsonData) 
         	for (var i = 0; i < jsonData[y].length; i++) {
 
         		// doi used many times
-        		var doi = jsonData[y][i]['doi'];
+        		var doilink = jsonData[y][i]['doilink'];
 
         		// create listing for paper
         		var paper = "<p class='paper'>";
@@ -31,7 +31,7 @@ $.getJSON('https://vkclab.github.io/json/publications.json', function(jsonData) 
         		paper += jsonData[y][i]['authors'] + " ";
 
         		// add hyperlink to title
-        		paper += "<a class='pub_title' href='" + doi + "'>";
+        		paper += "<a class='pub_title' href='" + doilink + "'>";
         		// add title
         		paper += jsonData[y][i]['title'];
         		// close hyperlink
@@ -44,7 +44,7 @@ $.getJSON('https://vkclab.github.io/json/publications.json', function(jsonData) 
         			paper += jsonData[y][i]['pages'] + " ";
         		}
         		// add doi
-        		paper += doi;
+        		paper += jsonData[y][i]['doi'];
         		// end listing
         		paper += "</p>";
 
@@ -56,7 +56,7 @@ $.getJSON('https://vkclab.github.io/json/publications.json', function(jsonData) 
 		        // create links under paper
 		        var links = "<p class='links'>";
 		        // add doi
-		        links += "<a class='pub_link' href='" + doi + "'>Full text (via DOI)</a> &diams; ";
+		        links += "<a class='pub_link' href='" + doilink + "'>Full text (via DOI)</a> &diams; ";
 		        // add google scholar
 		        links += "<a class='pub_link' href='" + jsonData[y][i]['googscholar'] + "'>Google Scholar</a> &diams; ";
 		        // add epistemio
