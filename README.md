@@ -1,5 +1,7 @@
 # VKC Lab Website
 
+hi!
+
 ## Contents
 
 #### HTML (.html) pages
