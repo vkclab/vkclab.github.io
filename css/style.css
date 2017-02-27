@@ -11,7 +11,7 @@ nav, .navbar {
 	width: 100%;
 }
 .bg {
-	background: #eee;
+	background: #f0f0f0;
 }
 .content {
 	margin-left: 10%;
@@ -29,7 +29,7 @@ nav, .navbar {
 	border: 1px solid white;
 }
 h1 {
-	color: #6c9;
+	color: #696;
 	font-weight: 800;
 	text-align: center;
 	margin-bottom: 2em;

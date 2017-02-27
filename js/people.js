@@ -8,7 +8,7 @@ $.getJSON('https://vkclab.github.io/json/people.json', function(jsonData) {
 
     for (var i = 0; i < jsonData.length; i++) {
 
-        var person = "<div class='row'>";
+        var person = "<div class='row person'>";
 
         person += "<div class='col-sm-3'>";
         if ('photo' in jsonData[i]) {
