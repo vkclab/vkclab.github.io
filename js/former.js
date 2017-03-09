@@ -27,6 +27,7 @@ $.getJSON('https://vkclab.github.io/json/former.json', function(jsonData) {
         person += "<div class='col-sm-9'>";
         // name, major
         person += "<p class='person_title'>" + jsonData[i]['nameyear'] + "</p>";
+        console.log(jsonData[i]['nameyear'])
         person += "<p class='person_major'>" + jsonData[i]['majors'] + "</p>";
         // links
         if (('linkedin' in jsonData[i]) && ('website' in jsonData[i])) {
