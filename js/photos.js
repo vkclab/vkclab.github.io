@@ -23,7 +23,7 @@ if (typeof window.orientation !== 'undefined'){
 		resolution: 'standard_resolution',
 		accessToken: '4662351467.428fbe4.e6c443c1986949e284f1782a28f50c07',
 		sortBy:'most-recent',
-		limit: 15,
+		limit: 12,
 		after: function(){
 		// $('#more_link').appendTo('#instafeed');
 

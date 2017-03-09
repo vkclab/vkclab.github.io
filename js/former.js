@@ -15,7 +15,7 @@ $.getJSON('https://vkclab.github.io/json/former.json', function(jsonData) {
 
     // add details of a former lab member to their specific div
     for (var i = 0; i < jsonData.length; i++) {
-        var details = $( "#former_member_"+n );
+        var details = $( "#former_member_"+i );
         var person = "<div class='row person'>";
         // photo column
         person += "<div class='col-sm-3'>";
