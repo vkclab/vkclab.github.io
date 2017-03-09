@@ -4,6 +4,11 @@
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
+.section {
+	width: 100%;
+	min-height: 5em;
+	
+}
 .icon img {
 	width: 12.5%;
 	padding: 2px;

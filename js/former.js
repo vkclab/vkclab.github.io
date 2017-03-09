@@ -57,8 +57,8 @@ $.getJSON('https://vkclab.github.io/json/former.json', function(jsonData) {
     var faces = $( "former_faces" );
     faces.append("<div>");
     for (var i = 0; i < jsonData.length; i++) {
-        var face = "<img class='icon' src='img/people/"+data[n]['photo']+
-                    "' alt="+data[n]['nameyear']+" onclick='show_member("+n+")'>";
+        var face = "<img class='icon' src='img/people/"+jsonData[i]['photo']+
+                    "' alt="+jsonData[i]['nameyear']+" onclick='show_member("+i+")'>";
         if (i%8==0 && i>0) {
             face += "</div><div>";
         }
