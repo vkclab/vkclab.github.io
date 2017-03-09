@@ -1,6 +1,10 @@
 .bg_etc {
-	background-image: url('../img/bg_labeling.jpg');
+	background-image: url('../img/bg/bg_labeling.jpg');
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+}
+.icon img {
+	width: 12.5%;
+	padding: 2px;
 }
