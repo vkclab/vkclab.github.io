@@ -4,12 +4,52 @@
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
-.section {
-	width: 100%;
-	min-height: 5em;
-	
+a, a:link, a:active, a:hover, a:visited {
+	color: #fff;
 }
-.icon img {
+.section {
+	height: 4em;
+	line-height: 1.2em;
+	width: 100%;
+	margin: 10px;
+	text-align: center;
+	font-size: 2em;
+	color: #fff;
+}
+.nav-pills > li.active > a, 
+.nav-pills > li.active > a:focus, 
+.nav-pills > li.active > a:hover {
+    color: #fff;
+    background-color: #f0f0f0;
+}
+#t_event {
+	background: #ccc
+}
+.tab-pane {
+	height: 500px;
+	overflow: scroll;
+}
+#former_faces {
+	height: 200px;
+	background: blue;
+}
+#events {
+	background: #c00;
+	border: 3px #600 solid;
+}
+#protocols {
+	background: #f90;
+	border: 3px #f60 solid;
+}
+#links {
+	background: #093;
+	border: 3px #030 solid;
+}
+#alums {
+	background: #069;
+	border: 3px #036 solid;
+}
+.icon {
 	width: 12.5%;
 	padding: 2px;
 }

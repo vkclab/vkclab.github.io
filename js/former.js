@@ -5,6 +5,20 @@ $.getJSON('https://vkclab.github.io/json/former.json', function(jsonData) {
     // bug-check: log JSON object in console
     // console.log(jsonData)
 
+    // create rows of members' faces
+    var faces = $( "#former_faces" );
+    face_string = "<div>";
+    for (var i = 0; i < jsonData.length; i++) {
+        face_string += "<img class='icon' src='img/people/"+jsonData[i]['photo']+
+                       "' alt='"+jsonData[i]['nameyear']+"' onclick='show_member("+i+")'>";
+        if (i%8==0 && i>0) {
+            face_string += "</div><div>";
+        }
+    }
+    face_string += "</div>";
+    console.log(face_string);
+    faces.html(face_string);
+
     // create member-specific divs
     var former_details = $( "#former_details" );
     var ids = "";
@@ -53,18 +67,6 @@ $.getJSON('https://vkclab.github.io/json/former.json', function(jsonData) {
         details.html(person).hide();
     }
 
-    // create rows of members' faces
-    var faces = $( "former_faces" );
-    faces.append("<div>");
-    for (var i = 0; i < jsonData.length; i++) {
-        var face = "<img class='icon' src='img/people/"+jsonData[i]['photo']+
-                    "' alt="+jsonData[i]['nameyear']+" onclick='show_member("+i+")'>";
-        if (i%8==0 && i>0) {
-            face += "</div><div>";
-        }
-        faces.append(face);
-    }
-    faces.append("</div>");
 });
 
 // click on a member to show their details

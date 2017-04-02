@@ -59,34 +59,39 @@
       </div>
 
       <div class='container bg'>
-        <h1>People</h1>
-        <div class='content'>
-          <div class='row '>
-            <div class='col-md-6'>
-              <div class='section' id='events'>
-              </div>
-            </div>
-            <div class='col-md-6'>
-              <div class='section' id='protocols'>
-              </div>
-            </div>
-          </div>
-          <div class='row '>
-            <div class='col-md-6'>
-              <div class='section' id='links'>
-              </div>
-            </div>
-            <div class='col-md-6'>
-              <div class='section' id='alums'>
-              </div>
-            </div>
-          </div>
-          
-          
-          
+        <h1>ETC</h1>
 
-          <div id='former_details'>
+        <div class='content'>
+
+          <!-- Nav tabs -->
+          <ul class="nav nav-pills" role="tablist">
+            <li role="presentation" class="tabs active">
+              <a href="#c_event" id="t_event" aria-controls="c_event" role="tab" data-toggle="tab">Events</a>
+            </li>
+            <li role="presentation" class="tabs">
+              <a href="#c_proto" id="t_proto" aria-controls="c_proto" role="tab" data-toggle="tab">Protocols</a>
+            </li>
+            <li role="presentation" class="tabs">
+              <a href="#c_links" id="t_links" aria-controls="c_links" role="tab" data-toggle="tab">Links</a>
+            </li>
+            <li role="presentation" class="tabs">
+              <a href="#c_alums" id="t_alums" aria-controls="c_alums" role="tab" data-toggle="tab">Former Members</a>
+            </li>
+          </ul>
+
+          <!-- Tab panes -->
+          <div class="tab-content">
+            <div role="tabpanel" id="c_event" class="tab-pane active">Hi</div>
+            <div role="tabpanel" id="c_proto" class="tab-pane">Bonjour</div>
+            <div role="tabpanel" id="c_links" class="tab-pane" >Hola</div>
+            <div role="tabpanel" id="c_alums" class="tab-pane">
+              <div id="former_faces">
+              </div>
+              <div id="former_details">
+              </div>
+            </div>
           </div>
+
         </div> <!-- end div content -->
       </div> <!-- end div container -->
 
@@ -98,6 +103,8 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <!-- Button click functionality -->
+    <script src="js/etc.js"></script>
     <!-- List all former members -->
     <script src="js/former.js"></script>
     

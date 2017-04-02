@@ -1,12 +1,13 @@
 [
     {
         "nameyear": "Rebecca Rubinstein, 2015",
-        "majors": "Biological Sciences and Spanish major"
+        "majors": "Biological Sciences and Spanish major",
+        "photo": "former_rebecca.jpg"
     },
     {
         "nameyear": "Connie Rojas, 2014",
         "majors": "Biological Sciences and Psychology major",
-        "blurb": "I am a Ph. D student in Dr. Kay Holekamp's spotted hyena lab at Michigan State University, working toward a dual degree in the Department of Integrative Biology, and Ecology, Evolutionary Biology, and Behavior (EEBB). My research is at the interface of animal behavior and microbial ecology, exploring how an organism's behavior shapes its microbial communities, and how microbial communities, in turn, influence their host's behavioral phenotype. Specifically, I am studying the socioecological predictors affecting microbiome structure in spotted hyenas, and the  functional contributions of various body-site specific microbiomes to hyena behavior, physiology, and fitness. ",
+        "whereAreYouNowAndInterests": "I am a Ph. D student in Dr. Kay Holekamp's spotted hyena lab at Michigan State University, working toward a dual degree in the Department of Integrative Biology, and Ecology, Evolutionary Biology, and Behavior (EEBB). My research is at the interface of animal behavior and microbial ecology, exploring how an organism's behavior shapes its microbial communities, and how microbial communities, in turn, influence their host's behavioral phenotype. Specifically, I am studying the socioecological predictors affecting microbiome structure in spotted hyenas, and the  functional contributions of various body-site specific microbiomes to hyena behavior, physiology, and fitness. ",
         "photo": "former_connie.jpg",
         "linkedin": "https://www.linkedin.com/in/connierojas/",
         "website": "http://conniearojas.weebly.com/"
@@ -14,27 +15,29 @@
     {
         "nameyear": "Amelia Winter, 2015",
         "majors": "Biological Sciences major, Psychology minor",
-        "blurb": "Since graduation, I have worked for two years as a clinical research coordinator at the Orthopaedic and Arthritis Center for Outcomes Research at Brigham and Women’s Hospital. Our research focuses on musculoskeletal diseases, specifically knee osteoarthritis. In the fall of 2017, I will be starting medical school.",
+        "whereAreYouNowAndInterests": "Since graduation, I have worked for two years as a clinical research coordinator at the Orthopaedic and Arthritis Center for Outcomes Research at Brigham and Women’s Hospital. Our research focuses on musculoskeletal diseases, specifically knee osteoarthritis. In the fall of 2017, I will be starting medical school.",
         "photo": "former_amelia.png",
         "linkedin": "https://www.linkedin.com/in/amelia-winter-078718aa/"
     },
     {
         "nameyear": "Michaella Montana, 2016",
         "majors": "Biochemistry major",
-        "blurb": "I currently work at the Stanford University School of Medicine as a research coordinator. I love talking with patients and am fascinated how doctors are using genetics to help cure diseases. For leisure, I sing in a women's choir and enjoy meditating, learning about religion, writing poetry, and composing music. In August I will be off to medical school at Virginia Commonwealth University School of Medicine, where I hope to specialize in family medicine and become a holistic country doctor/healer. ",
+        "whereAreYouNowAndInterests": "I currently work at the Stanford University School of Medicine as a research coordinator. I love talking with patients and am fascinated how doctors are using genetics to help cure diseases. For leisure, I sing in a women's choir and enjoy meditating, learning about religion, writing poetry, and composing music. In August I will be off to medical school at Virginia Commonwealth University School of Medicine, where I hope to specialize in family medicine and become a holistic country doctor/healer. ",
         "photo": "former_michaella.jpg",
         "linkedin": "https://www.linkedin.com/in/michaella-montana-645b68111/"
     },
     {
         "nameyear": "Serry Park, 2016",
         "majors": "Biological Sciences major, Psychology minor",
-        "blurb": "Hello! My name is Serry and I am currently a software engineer at Slack where I build backend components on the Platform Team. Although my current job seems unrelated to my work in the VKC lab, the problem solving and critical thinking skills that I have acquired from working under Vanja's wing have proven invaluable to me as a software engineer. My interests are poetry, cooking (and eating) korean food, and of course, microbiology! ",
+        "whereAreYouNowAndInterests": "Hello! My name is Serry and I am currently a software engineer at Slack where I build backend components on the Platform Team. Although my current job seems unrelated to my work in the VKC lab, the problem solving and critical thinking skills that I have acquired from working under Vanja's wing have proven invaluable to me as a software engineer. My interests are poetry, cooking (and eating) korean food, and of course, microbiology! ",
+        "photo": "former_serry.jpg",
         "linkedin": "https://www.linkedin.com/in/serrypark"
     },
     {
         "nameyear": "Rachel Harris, 2014",
         "majors": "Biological Sciences major, Russian minor",
-        "blurb": "I am a third year Ph.D. student under Dr. Tullis C. Onstott, Department of Geosciences, Princeton University. My research interests include investigating the evolutionary history and functional diversity of active but rare microbial players in biogeochemical cycling, with special emphasis on applications to early evolution and habitability on early Earth and Mars Special Regions. My doctoral research focuses on coupling a novel fluorescent in situ hybridization method with metatranscriptomics, metagenomics, and single-cell genomics to elucidate and characterize the contributions of rare biosphere methanogens and AMNEs inhabiting extreme temperature and pressure regimes as a means to further resolve the limits of habitability for terrestrial life. I have extensive field and bench experience collecting, characterizing, and analyzing metabolites of extremophiles from a variety of reducing environments including hydrothermal features, oligotrophic marine sediments, and saline fracture fluids in the deep terrestrial subsurface.",
+        "whereAreYouNowAndInterests": "I am a third year Ph.D. student under Dr. Tullis C. Onstott, Department of Geosciences, Princeton University. My research interests include investigating the evolutionary history and functional diversity of active but rare microbial players in biogeochemical cycling, with special emphasis on applications to early evolution and habitability on early Earth and Mars Special Regions. My doctoral research focuses on coupling a novel fluorescent in situ hybridization method with metatranscriptomics, metagenomics, and single-cell genomics to elucidate and characterize the contributions of rare biosphere methanogens and AMNEs inhabiting extreme temperature and pressure regimes as a means to further resolve the limits of habitability for terrestrial life. I have extensive field and bench experience collecting, characterizing, and analyzing metabolites of extremophiles from a variety of reducing environments including hydrothermal features, oligotrophic marine sediments, and saline fracture fluids in the deep terrestrial subsurface.",
+        "photo": "former_rachel.jpg",
         "linkedin": "https://www.linkedin.com/in/rachel-harris-939a284a",
         "website": "http://scholar.princeton.edu/rlh6/"
     }
