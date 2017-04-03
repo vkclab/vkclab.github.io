@@ -5,51 +5,34 @@
 	background-attachment: fixed;
 }
 a, a:link, a:active, a:hover, a:visited {
+	color: #696;
+}
+p.links > a, 
+p.links > a:link, 
+p.links > a:active, 
+p.links > a:hover, 
+p.links > a:visited {
+	color: #06c;
+}
+.nav-tabs > li.active > a, 
+.nav-tabs > li.active > a:focus {
 	color: #fff;
-}
-.section {
-	height: 4em;
-	line-height: 1.2em;
-	width: 100%;
-	margin: 10px;
-	text-align: center;
-	font-size: 2em;
-	color: #fff;
-}
-.nav-pills > li.active > a, 
-.nav-pills > li.active > a:focus, 
-.nav-pills > li.active > a:hover {
-    color: #fff;
-    background-color: #f0f0f0;
-}
-#t_event {
-	background: #ccc
+    background-color: #696;
 }
 .tab-pane {
-	height: 500px;
-	overflow: scroll;
+	min-height: 500px;
 }
 #former_faces {
-	height: 200px;
-	background: blue;
-}
-#events {
-	background: #c00;
-	border: 3px #600 solid;
-}
-#protocols {
-	background: #f90;
-	border: 3px #f60 solid;
-}
-#links {
-	background: #093;
-	border: 3px #030 solid;
-}
-#alums {
-	background: #069;
-	border: 3px #036 solid;
+	min-height: 150px;
 }
 .icon {
 	width: 12.5%;
 	padding: 2px;
+}
+.person_title {
+	font-size: 1.5em;
+}
+.person_major {
+	font-size: 1.2em;
+	color: #696;
 }

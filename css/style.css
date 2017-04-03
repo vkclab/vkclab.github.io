@@ -5,6 +5,9 @@ body {
 nav, .navbar {
 	font-weight: 800;
 }
+a, a:link, a:active, a:hover, a:visited {
+	color: #06c;
+}
 .container {
 	margin: 0px 0px;
 	padding: 5% 5%;
@@ -37,6 +40,12 @@ h1 {
 h2 {
 	font-weight: 800;
 }
+h3 {
+	line-height: 2em;
+}
+.center {
+	text-align: center;
+}
 p {
 	line-height: 1.6em;
 }
@@ -50,57 +59,9 @@ p {
 img {
 	width: 100%;
 }
-.circle {
-	display: inline-block;
-	border: 2px solid #fff;
-	width: 80px;
-	height: 80px;
-	margin: 5px 5px;
-	padding: 15px 15px 5px 15px;
-}
-.circle:hover {
-	transition:all 0.3s ease;
-	border-radius:50%;
-}
-.circle > h1 {
-	font-size: 40px;
-}
-div.whitebox {
-	background: transparent;
-	padding: 10px 15px;
-	margin: 2px 5px;
-	display: inline-block;
-	border: 1px solid #fff;
-}
-a.whitelink:link, a.whitelink:visited, a.whitelink:hover, a.whitelink:active {
-	color: #fff;
-}
-a.white-underline {
-	position: relative;
-	text-decoration: none;
-}
-a.white-underline:before {
-	content: "";
-	position: absolute;
-	width: 100%;
-	height: 1px;
-	bottom: 0;
-	left: 0;
-	background-color: #fff;
-	visibility: hidden;
-	-webkit-transform: scaleX(0);
-	transform: scaleX(0);
-	-webkit-transition: all 0.3s ease-in-out 0s;
-	transition: all 0.3s ease-in-out 0s;
-}
-a.white-underline:hover:before {
-	visibility: visible;
-	-webkit-transform: scaleX(1);
-	transform: scaleX(1);
-}
 footer {
 	text-align: center;
-	background-color: #eee;
+	background-color: #e9e9e9;
 	padding: 10px 10px;
 	margin: 0px 0px;
 }

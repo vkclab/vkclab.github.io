@@ -64,7 +64,7 @@
         <div class='content'>
 
           <!-- Nav tabs -->
-          <ul class="nav nav-pills" role="tablist">
+          <ul class="nav nav-tabs nav-justified" role="tablist">
             <li role="presentation" class="tabs active">
               <a href="#c_event" id="t_event" aria-controls="c_event" role="tab" data-toggle="tab">Events</a>
             </li>
@@ -81,14 +81,20 @@
 
           <!-- Tab panes -->
           <div class="tab-content">
-            <div role="tabpanel" id="c_event" class="tab-pane active">Hi</div>
-            <div role="tabpanel" id="c_proto" class="tab-pane">Bonjour</div>
-            <div role="tabpanel" id="c_links" class="tab-pane" >Hola</div>
+            <div role="tabpanel" id="c_event" class="tab-pane active">
+              <h3 class="center">Events</h3>
+            </div>
+            <div role="tabpanel" id="c_proto" class="tab-pane">
+              <h3 class="center">Protocols</h3>
+            </div>
+            <div role="tabpanel" id="c_links" class="tab-pane">
+              <h3 class="center">Links</h3>
+            </div>
             <div role="tabpanel" id="c_alums" class="tab-pane">
-              <div id="former_faces">
-              </div>
-              <div id="former_details">
-              </div>
+              <h3 class="center">Former members</h3>
+              <h6 class="center">Click on each member to learn more about them.</h6>
+              <div id="former_faces" class="center"></div>
+              <div id="former_details"></div>
             </div>
           </div>
 
