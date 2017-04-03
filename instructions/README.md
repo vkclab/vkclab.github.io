@@ -1,6 +1,6 @@
 # Instructions for editing pages
 
-### Simpler pages (edit HTML as usual):
+### Simpler pages (edit HTML as usual)
 - index.html
 - contact.html
 
