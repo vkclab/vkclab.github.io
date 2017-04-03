@@ -1,3 +1,8 @@
+
+/**************************************************
+* Below is code for the FORMER MEMBERS tab
+**************************************************/
+
 // load json object once and lay everything out
 // some elements will be hidden until others are clicked on
 $.getJSON('https://vkclab.github.io/json/former.json', function(jsonData) {
