@@ -52,6 +52,9 @@ p {
 .bold {
 	font-weight: 800;
 }
+.italic {
+	font-style: italic;
+}
 .whitetext {
 	color: white;
 	font-size: 1em;
