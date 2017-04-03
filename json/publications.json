@@ -224,12 +224,130 @@
             "googscholar": "http://scholar.google.com/scholar?q=Bohorquez+In-depth+Characterization+via+Complementing+Culture-Independent+Approaches+of+the+Microbial+Community+in+an+Acidic+Hot+Spring+of+the+Colombian+Andes"
         }
     ],
-    "2011": [],
-    "2010": [],
-    "2009": [],
-    "2008": [],
-    "2007": [],
-    "2006": [],
-    "2005": [],
-    "2004": []
+    "2011": [
+        {
+            "authors": "Ng, R., Singh, F., Papamanou, D. A., Song, X., Patel, C., Holewa, C., et al. (2011).",
+            "title": "Endodontic Photodynamic Therapy Ex Vivo.",
+            "journal": "Journal of Endodontics, 37(2),",
+            "pages": "217–222.",
+            "doi": "doi:10.1016/j.joen.2010.10.008",
+            "doilink": "http://dx.doi.org/10.1016/j.joen.2010.10.008",
+            "googscholar": "http://scholar.google.com/scholar?q=Ng+Endodontic+Photodynamic+Therapy+Ex+Vivo"
+        },
+        {
+            "authors": "Shank, E. A., Klepac-Ceraj, V., Collado-Torres, L., Powers, G. E., Losick, R., & Kolter, R. (2011).",
+            "title": "Interspecies interactions that result in Bacillus subtilis forming biofilms are mediated mainly by members of its own genus.",
+            "journal": "Proceedings of the National Academy of Sciences, 108(48),",
+            "pages": "E1236–E1243.",
+            "doi": "doi:10.1073/pnas.1103630108",
+            "doilink": "http://dx.doi.org/10.1073/pnas.1103630108",
+            "googscholar": "http://scholar.google.com/scholar?q=Shank+Interspecies+interactions+that+result+in+Bacillus+subtilis+forming+biofilms+are+mediated+mainly+by+members+of+its+own+genus"
+        },
+        {
+            "authors": "Klepac-Ceraj, V., Patel, N., Song, X., Holewa, C., Patel, C., Kent, R., et al. (2011).",
+            "title": "Photodynamic effects of methylene blue-loaded polymeric nanoparticles on dental plaque bacteria: PHOTODESTRUCTION OF ORAL BACTERIA.",
+            "journal": "Lasers in Surgery and Medicine, 43(7),",
+            "pages": "600–606.",
+            "doi": "doi:10.1002/lsm.21069",
+            "doilink": "http://dx.doi.org/10.1002/lsm.21069",
+            "googscholar": "http://scholar.google.com/scholar?q=Klepac-Ceraj+Photodynamic+effects+of+methylene+blue-loaded+polymeric+nanoparticles+on+dental+plaque+bacteria%3A+PHOTODESTRUCTION+OF+ORAL+BACTERIA"
+        },
+        {
+            "authors": "Guss, A. M., Roeselers, G., Newton, I. L. G., Young, C. R., Klepac-Ceraj, V., Lory, S., & Cavanaugh, C. M. (2011).",
+            "title": "Phylogenetic and metabolic diversity of bacteria associated with cystic fibrosis.",
+            "journal": "The ISME Journal, 5(1),",
+            "pages": "20–29. ",
+            "doi": "doi:10.1038/ismej.2010.88",
+            "doilink": "http://dx.doi.org/10.1038/ismej.2010.88",
+            "googscholar": "http://scholar.google.com/scholar?q=Guss+Phylogenetic+and+metabolic+diversity+of+bacteria+associated+with+cystic+fibrosis"
+        }
+    ],
+    "2010": [
+        {
+            "authors": "Klepac-Ceraj, V., Lemon, K. P., Martin, T. R., Allgaier, M., Kembel, S. W., Knapp, A. A., et al. (2010).",
+            "title": "Relationship between cystic fibrosis respiratory tract bacterial communities and age, genotype, antibiotics and Pseudomonas aeruginosa: Ecology of the cystic fibrosis respiratory tract bacterial community.",
+            "journal": "Environmental Microbiology, 12(5),",
+            "pages": "1293–1303.",
+            "doi": "doi:10.1111/j.1462-2920.2010.02173.x",
+            "doilink": "http://dx.doi.org/10.1111/j.1462-2920.2010.02173.x",
+            "googscholar": "http://scholar.google.com/scholar?q=Klepac-Ceraj+Relationship+between+cystic+fibrosis+respiratory+tract+bacterial+communities+and+age%2C+genotype%2C+antibiotics+and+Pseudomonas+aeruginosa%3A+Ecology+of+the+cystic+fibrosis+respiratory+tract+bacterial+community"
+        },
+        {
+            "authors": "Udiković Kolić, N., Hršak, D., Devers, M., Klepac-Ceraj, V., Petrić, I., & Martin-Laurent, F. (2010).",
+            "title": "Taxonomic and functional diversity of atrazine-degrading bacterial communities enriched from agrochemical factory soil.",
+            "journal": "Journal of Applied Microbiology.",
+            "doi": "doi:10.1111/j.1365-2672.2010.04700.x",
+            "doilink": "http://dx.doi.org/10.1111/j.1365-2672.2010.04700.x",
+            "googscholar": "http://scholar.google.com/scholar?q=Udikovi%C4%87+Koli%C4%87+Taxonomic+and+functional+diversity+of+atrazine-degrading+bacterial+communities+enriched+from+agrochemical+factory+soil"
+        }
+    ],
+    "2006": [
+        {
+            "authors": "Hunt, D. E., Klepac-Ceraj, V., Acinas, S. G., Gautier, C., Bertilsson, S., & Polz, M. F. (2006).",
+            "title": "Evaluation of 23S rRNA PCR Primers for Use in Phylogenetic Studies of Bacterial Diversity.",
+            "journal": "Applied and Environmental Microbiology, 72(3),",
+            "pages": "2221–2225.",
+            "doi": "doi:10.1128/AEM.72.3.2221-2225.2006",
+            "doilink": "http://dx.doi.org/10.1128/AEM.72.3.2221-2225.2006",
+            "googscholar": "http://scholar.google.com/scholar?q=Hunt+Evaluation+of+23S+rRNA+PCR+Primers+for+Use+in+Phylogenetic+Studies+of+Bacterial+Diversity"
+        }
+    ],
+    "2005": [
+        {
+            "authors": "Acinas, S. G., Sarma-Rupavtarm, R., Klepac-Ceraj, V., & Polz, M. F. (2005).",
+            "title": "PCR-Induced Sequence Artifacts and Bias: Insights from Comparison of Two 16S rRNA Clone Libraries Constructed from the Same Sample.",
+            "journal": "Applied and Environmental Microbiology, 71(12),",
+            "pages": "8966–8969.",
+            "doi": "doi:10.1128/AEM.71.12.8966-8969.2005",
+            "doilink": "http://dx.doi.org/10.1128/AEM.71.12.8966-8969.2005",
+            "googscholar": "http://scholar.google.com/scholar?q=Acinas+PCR-Induced+Sequence+Artifacts+and+Bias%3A+Insights+from+Comparison+of+Two+16S+rRNA+Clone+Libraries+Constructed+from+the+Same+Sample"
+        },
+        {
+            "authors": "Bahr, M., Crump, B. C., Klepac-Ceraj, V., Teske, A., Sogin, M. L., & Hobbie, J. E. (2005).",
+            "title": "Molecular characterization of sulfate-reducing bacteria in a New England salt marsh.",
+            "journal": "Environmental Microbiology, 7(8),",
+            "pages": "1175–1185.",
+            "doi": "doi:10.1111/j.1462-2920.2005.00796.x",
+            "doilink": "http://dx.doi.org/10.1111/j.1462-2920.2005.00796.x",
+            "googscholar": "http://scholar.google.com/scholar?q=Bahr+Molecular+characterization+of+sulfate-reducing+bacteria+in+a+New+England+salt+marsh"
+        },
+        {
+            "authors": "Perry, Klepac-Ceraj, V., Zhang, X. V., McNamara, C. J., Polz, M. F., Martin, S. T., et al. (2005).",
+            "title": "Binding of Harvested Bacterial Exopolymers to the Surface of Calcite.",
+            "journal": "Environmental Science & Technology, 39(22),",
+            "pages": "8770–8775.",
+            "doi": "doi:10.1021/es0508368",
+            "doilink": "http://dx.doi.org/10.1021/es0508368",
+            "googscholar": "http://scholar.google.com/scholar?q=Perry+Binding+of+Harvested+Bacterial+Exopolymers+to+the+Surface+of+Calcite"
+        }
+    ],
+    "2004": [
+        {
+            "authors": "Klepac-Ceraj, V., Bahr, M., Crump, B. C., Teske, A. P., Hobbie, J. E., & Polz, M. F. (2004).",
+            "title": "High overall diversity and dominance of microdiverse relationships in salt marsh sulphate-reducing bacteria.",
+            "journal": "Environmental Microbiology, 6(7), ",
+            "pages": "686–698.",
+            "doi": "doi:10.1111/j.1462-2920.2004.00600.x",
+            "doilink": "http://dx.doi.org/10.1111/j.1462-2920.2004.00600.x",
+            "googscholar": "http://scholar.google.com/scholar?q=Klepac-Ceraj+High+overall+diversity+and+dominance+of+microdiverse+relationships+in+salt+marsh+sulphate-reducing+bacteria"
+        },
+        {
+            "authors": "Acinas, S. G., Marcelino, L. A., Klepac-Ceraj, V., & Polz, M. F. (2004).",
+            "title": "Divergence and Redundancy of 16S rRNA Sequences in Genomes with Multiple rrn Operons.",
+            "journal": "Journal of Bacteriology, 186(9),",
+            "pages": "2629–2635.",
+            "doi": "doi:10.1128/JB.186.9.2629-2635.2004",
+            "doilink": "http://dx.doi.org/10.1128/JB.186.9.2629-2635.2004",
+            "googscholar": "http://scholar.google.com/scholar?q=Acinas+Divergence+and+Redundancy+of+16S+rRNA+Sequences+in+Genomes+with+Multiple+rrn+Operons"
+        },
+        {
+            "authors": "Acinas, S. G., Klepac-Ceraj, V., Hunt, D. E., Pharino, C., Ceraj, I., Distel, D. L., & Polz, M. F. (2004).",
+            "title": "Fine-scale phylogenetic architecture of a complex bacterial community.",
+            "journal": "Nature, 430(6999),",
+            "pages": "551–554.",
+            "doi": "doi:10.1038/nature02649",
+            "doilink": "http://dx.doi.org/10.1038/nature02649",
+            "googscholar": "http://scholar.google.com/scholar?q=Acinas+Fine-scale+phylogenetic+architecture+of+a+complex+bacterial+community"
+        }
+    ]
 }
