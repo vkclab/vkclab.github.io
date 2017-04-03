@@ -1,0 +1,3 @@
+# Instructions for Photos page
+
+The 12 most recent photos are pulled from the [Instagram page](https://www.instagram.com/vkclab/), using code from [photos.js](../js/photos.js) and [instafeed.min.js](../js/instafeed.min.js). Any changes to the page should be made in the JavaScript code in [photos.js](../js/photos.js), in accordance with documentation on [the Instafeed.js website](http://instafeedjs.com/).
