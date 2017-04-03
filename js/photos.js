@@ -8,6 +8,7 @@ if (typeof window.orientation !== 'undefined'){
 		accessToken: '4662351467.428fbe4.e6c443c1986949e284f1782a28f50c07',
 		sortBy:'most-recent',
 		limit: 6,
+		template: '<img src="{{image}}" alt="{{caption}}"/>',
 		after: function(){
 			// $('#more_link').appendTo('#instafeed');
 
@@ -24,6 +25,7 @@ if (typeof window.orientation !== 'undefined'){
 		accessToken: '4662351467.428fbe4.e6c443c1986949e284f1782a28f50c07',
 		sortBy:'most-recent',
 		limit: 12,
+		template: '<img src="{{image}}" alt="{{caption}}"/>',
 		after: function(){
 		// $('#more_link').appendTo('#instafeed');
 
