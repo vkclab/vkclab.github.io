@@ -26,7 +26,7 @@ a, a:link, a:active, a:hover, a:visited {
 	text-align: center;
 	vertical-align: middle;
 	background: #333;
-	opacity: 0.6;
+	opacity: 0.5;
 }
 .header_img {
 	border: 1px solid white;
