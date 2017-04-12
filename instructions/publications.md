@@ -34,6 +34,13 @@ _Each time you update the list of publications, you must also extract a JSON fil
 
 5. Push the changes from __publications.json__ to GitHub, to the _main_ branch. This change should [be reflected online](http://vkclab.github.io/json/publications.json) (there might be a slight delay). (In short, the jQuery API that loads JSON-encoded data must "use a GET HTTP request", which means the jQuery uses [an absolute URL intead of a relative URL](https://kb.iu.edu/d/abwp), and so the JSON file must be online at the specified URL. It also means that if we rename __publications.json__ file or move it elsewhere, we'd need to specify this in the accompanying .js file so that it can still access the data.)
 
+Instructions for pushing:
+```
+git add [specific path/to/filename] ***OR*** git add . (adds everything)
+git commit -m "message I want to say about this change"
+git push
+```
+
 The JavaScript file _**publications.js**_ should then automatically format the JSON objects into user-friendly listings on the Publications page.
 
 ----------
