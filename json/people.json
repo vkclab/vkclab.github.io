@@ -1,10 +1,5 @@
 [
     {
-        "nameyear": "PI: <a href='http://www.wellesley.edu/biology/faculty/klepac-ceraj'>Vanja Klepac-Ceraj</a>",
-        "blurb": "Research interests: microbiology, ecology, microbial diversity and evolution, community stability and resilience",
-        "photo": "people_vanja.png"
-    },
-    {
         "nameyear": "Manjot Kaur Nagyal '17",
         "majors": "Biochemistry Major",
         "blurb": "I joined Prof. Klepac-Ceraj’s lab after taking her introductory course on cellular and molecular biology. My research project is focused on understanding the role of estradiol of the female mouse gut microbiota. Currently, I am characterizing the host-independent effects of estradiol on the gut microbes. At Wellesley, I ventured into computer science, start-up business (Munch), Haitian and Ghanaian drumming, and dramatic acting. For my next big adventure, I plan to pursue a PhD in computational and systems biology and eventually enter the biotechnology industry.",
@@ -14,7 +9,8 @@
         "nameyear": "Sophie Rowland '17",
         "majors": "Biology and Classical Civilization Major",
         "blurb": "I started working in Vanja’s lab in the fall of 2015. I am working on a collaborative project with Tanja Bosak’s lab at MIT. We are interested in the green sulfur bacteria <i>Chlorobium phaeobacteroides</i> and what it uses as an electron donor in anoxygenic photosynthesis. Outside of lab, I sing in choir and play the bells on Wellesley’s campus. After Wellesley, I intend to take a gap year and then pursue a PhD in biology.",
-        "photo": "people_sophie.png"
+        "photo": "people_sophie.png",
+        "linkedin": "https://www.linkedin.com/in/sophiebrowland/"
     },
     {
         "nameyear": "Alexa Rodriguez '17",
@@ -38,6 +34,11 @@
         "nameyear": "Anna Farrell-Sherman '19",
         "majors": "Computer Science and Biology Major",
         "blurb": "I joined the VKC lab to work on how computation can help us understand the large data sets involved in microbiome research. With millions of sequencing reads from thousands of different samples, our lab is awash in data that we need computer science to help us understand. I work on a variety of different projects, but I currently focus on understanding the changes that occur in the gut microbiota of mice on different diets.  In addition to biology and computer science, I spend most of my time rock climbing as the president of Wellesley’s Climbing Club, and cooking with my friends in the dorm kitchen.",
-        "photo": "people_anna.png"
+        "photo": "people_anna.png",
+        "linkedin": "https://www.linkedin.com/in/anna-farrell-sherman-726342136/"
+    },
+    {
+        "nameyear": "Jingyuan (Donna) Gan '20",
+        "majors": "Computer Science and Mathematics Major"
     }
 ]

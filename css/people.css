@@ -4,8 +4,12 @@
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
-.person {
-	margin: 15px 0px;
+#people_faces {
+	min-height: 150px;
+}
+.icon {
+	width: 12.5%;
+	padding: 2px;
 }
 .person_title {
 	font-size: 1.5em;
