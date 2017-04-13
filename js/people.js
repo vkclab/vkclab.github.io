@@ -72,7 +72,7 @@ $.getJSON('https://vkclab.github.io/json/people.json', function(jsonData) {
 // click on a member to show their details
 function show_member(n) {
     for (i = 0; i < 100; i++) {
-        var member = $( "#people_member_"+i );
+        var member = $( "#member_"+i );
         if (i==n) {
             member.show();
         } else {
